@@ -12,4 +12,9 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 
 ## CI/CD status
 
+![Admin deployment](https://github.com/wishidev/admin/actions/workflows/ci.yml/badge.svg)
+
+
+## Test status
+
 ![Webapp E2E tests status](https://github.com/wishidev/webapp-e2e/actions/workflows/ci.yml/badge.svg)
