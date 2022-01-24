@@ -12,7 +12,7 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 ## Test status
 
 ![Webapp E2E tests status](https://github.com/wishidev/webapp-e2e/actions/workflows/ci.yml/badge.svg)
-
+![Widget E2E tests status](https://github.com/wishidev/widget-e2e/actions/workflows/run-e2e.yml/badge.svg)
 
 
 ## Experience repositories CI/CD
@@ -20,8 +20,17 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 ![Webapp pull request](https://github.com/wishidev/web-app/actions/workflows/pull-request.yml/badge.svg)
 ![Webapp master](https://github.com/wishidev/web-app/actions/workflows/master.yml/badge.svg)
 ![Webapp release](https://github.com/wishidev/web-app/actions/workflows/release.yml/badge.svg)
+![Web components pull request](https://github.com/wishidev/web-components/actions/workflows/pull-request.yml/badge.svg)
+![Web components release](https://github.com/wishidev/web-components/actions/workflows/release.yml/badge.svg)
 
 ## SDK's repositories CI/CD
+![Demos widget deployment](https://github.com/wishidev/demos/actions/workflows/widget-qa-release.yml/badge.svg)
+![Web chat widget pull request](https://github.com/wishidev/web-chat-widget/actions/workflows/pull-request.yml/badge.svg)
+![Web chat widget release](https://github.com/wishidev/web-chat-widget/actions/workflows/release.yml/badge.svg)
+![Web chat SDK pull request](https://github.com/wishidev/web-chat-sdk/actions/workflows/pull-request.yml/badge.svg)
+![Web chat SDK release](https://github.com/wishidev/web-chat-sdk/actions/workflows/release.yml/badge.svg)
+
+
 
 ## Platforms repositories CI/CD
 
