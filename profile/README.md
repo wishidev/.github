@@ -13,6 +13,10 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 ## CI/CD status
 
 ![Admin deployment](https://github.com/wishidev/admin/actions/workflows/ci.yml/badge.svg)
+![infrastructure deploy certificate](https://github.com/wishidev/infrastructure/actions/deploy-certificate/ci.yml/badge.svg)
+![infrastructure deploy load balancer](https://github.com/wishidev/infrastructure/actions/workflows/deploy-load-balancer.yml/badge.svg)
+![infrastructure deploy vpc](https://github.com/wishidev/infrastructure/actions/workflows/deploy-vpc.yml/badge.svg)
+
 
 
 ## Test status
