@@ -18,7 +18,7 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 ## Experience repositories CI/CD
 
 ![Webapp pull request](https://github.com/wishidev/web-app/actions/workflows/pull-request.yml/badge.svg)
-![Webapp master](https://github.com/wishidev/web-app/actions/workflows/pull-master.yml/badge.svg)
+![Webapp master](https://github.com/wishidev/web-app/actions/workflows/master.yml/badge.svg)
 ![Webapp release](https://github.com/wishidev/web-app/actions/workflows/release.yml/badge.svg)
 
 ## SDK's repositories CI/CD
