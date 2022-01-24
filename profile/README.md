@@ -1,16 +1,15 @@
-## Hi there 👋
+## Wishi intro
 
-<!--
+Wishi is a software company combining proprietary technology with human expertise to optimize sales for all digital inventory.
 
-**Here are some ideas to get you started:**
+Wishi optimizes the sale of all digital inventory through proprietary software & human expertise. Wishi provides an online guided shopping experience for the client.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We collect data to inform the expert to provide personalized recommendations based on their clients’ needs and preferences.
+
+With Wishi, using advanced machine learning algorithms , the right product is always pulled for the right user – who, in turn, buys smarter and with higher intent.
+
+
 
 ## CI/CD status
 
-![CI tests status](https://github.com/wishidev/webapp-e2e/actions/workflows/ci.yml/badge.svg)
+![Webapp E2E tests status](https://github.com/wishidev/webapp-e2e/actions/workflows/ci.yml/badge.svg)
