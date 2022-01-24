@@ -13,23 +13,20 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 
 ![Webapp E2E tests status](https://github.com/wishidev/webapp-e2e/actions/workflows/ci.yml/badge.svg)
 ![Widget E2E tests status](https://github.com/wishidev/widget-e2e/actions/workflows/run-e2e.yml/badge.svg)
+![Performance tests status](https://github.com/wishidev/performance-tests/actions/workflows/master.yml/badge.svg)
 
 
 ## Experience repositories CI/CD
 
-![Webapp pull request](https://github.com/wishidev/web-app/actions/workflows/pull-request.yml/badge.svg)
 ![Webapp master](https://github.com/wishidev/web-app/actions/workflows/master.yml/badge.svg)
 ![Webapp release](https://github.com/wishidev/web-app/actions/workflows/release.yml/badge.svg)
 
-![Web components pull request](https://github.com/wishidev/web-components/actions/workflows/pull-request.yml/badge.svg)
 ![Web components release](https://github.com/wishidev/web-components/actions/workflows/release.yml/badge.svg)
 
 ## SDK's repositories CI/CD
 ![Demos widget deployment](https://github.com/wishidev/demos/actions/workflows/widget-qa-release.yml/badge.svg)
-![Web chat widget pull request](https://github.com/wishidev/web-chat-widget/actions/workflows/pull-request.yml/badge.svg)
 ![Web chat widget release](https://github.com/wishidev/web-chat-widget/actions/workflows/release.yml/badge.svg)
 
-![Web chat SDK pull request](https://github.com/wishidev/web-chat-sdk/actions/workflows/pull-request.yml/badge.svg)
 ![Web chat SDK release](https://github.com/wishidev/web-chat-sdk/actions/workflows/release.yml/badge.svg)
 
 
@@ -39,6 +36,9 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 ![infrastructure deploy certificate](https://github.com/wishidev/infrastructure/actions/workflows/deploy-certificate.yml/badge.svg)
 ![infrastructure deploy load balancer](https://github.com/wishidev/infrastructure/actions/workflows/deploy-load-balancer.yml/badge.svg)
 ![infrastructure deploy vpc](https://github.com/wishidev/infrastructure/actions/workflows/deploy-vpc.yml/badge.svg)
+
+![API GW Service release](https://github.com/wishidev/api-gw-service/actions/workflows/release.yml/badge.svg)
+![Inventory Service release](https://github.com/wishidev/inventory-service/actions/workflows/release.yml/badge.svg)
 
 ## Infrastructure repositories CI/CD
 
