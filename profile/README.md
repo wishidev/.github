@@ -13,6 +13,7 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 
 ![Webapp E2E tests status](https://github.com/wishidev/webapp-e2e/actions/workflows/ci.yml/badge.svg)
 ![Widget E2E tests status](https://github.com/wishidev/widget-e2e/actions/workflows/run-e2e.yml/badge.svg)
+[![e2e-tests for web-chat-widget](https://github.com/wishidev/widget-e2e/actions/workflows/run-e2e.yml/badge.svg)](https://github.com/wishidev/widget-e2e/actions/workflows/run-e2e.yml)
 ![Performance tests status](https://github.com/wishidev/performance-tests/actions/workflows/master.yml/badge.svg)
 
 
