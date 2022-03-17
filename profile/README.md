@@ -42,6 +42,7 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 [![Notification service CI](https://github.com/wishidev/notifications-service/actions/workflows/ci.yml/badge.svg)](https://github.com/wishidev/notifications-service/actions/workflows/ci.yml)
 [![relese flow for shared enteties](https://github.com/wishidev/shared-entities/actions/workflows/release.yml/badge.svg)](https://github.com/wishidev/shared-entities/actions/workflows/release.yml)
 
-## Infrastructure repositories CI/CD
+## Dev operations repositories CI/CD
 
 ![Admin deployment](https://github.com/wishidev/admin/actions/workflows/ci.yml/badge.svg)
+[![automation-service CD flow](https://github.com/wishidev/automation-service/actions/workflows/cd.yml/badge.svg)](https://github.com/wishidev/automation-service/actions/workflows/cd.yml)
