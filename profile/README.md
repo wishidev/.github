@@ -41,6 +41,7 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 ![Inventory Service release](https://github.com/wishidev/inventory-service/actions/workflows/release.yml/badge.svg)
 [![Notification service CI](https://github.com/wishidev/notifications-service/actions/workflows/ci.yml/badge.svg)](https://github.com/wishidev/notifications-service/actions/workflows/ci.yml)
 [![relese flow for shared enteties](https://github.com/wishidev/shared-entities/actions/workflows/release.yml/badge.svg)](https://github.com/wishidev/shared-entities/actions/workflows/release.yml)
+
 [![Legacy apis - deploy to servers](https://github.com/wishidev/legacy-apis/actions/workflows/update-server.yml/badge.svg)](https://github.com/wishidev/legacy-apis/actions/workflows/update-server.yml)
 
 ## Dev operations repositories CI/CD
