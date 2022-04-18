@@ -38,7 +38,6 @@ With Wishi, using advanced machine learning algorithms , the right product is al
 ![infrastructure deploy vpc](https://github.com/wishidev/infrastructure/actions/workflows/deploy-vpc.yml/badge.svg)
 
 ![API GW Service release](https://github.com/wishidev/api-gw-service/actions/workflows/release.yml/badge.svg)
-![Inventory Service release](https://github.com/wishidev/inventory-service/actions/workflows/release.yml/badge.svg)
 [![Notification service CI](https://github.com/wishidev/notifications-service/actions/workflows/ci.yml/badge.svg)](https://github.com/wishidev/notifications-service/actions/workflows/ci.yml)
 [![relese flow for shared enteties](https://github.com/wishidev/shared-entities/actions/workflows/release.yml/badge.svg)](https://github.com/wishidev/shared-entities/actions/workflows/release.yml)
 
